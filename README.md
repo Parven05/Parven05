@@ -1,6 +1,5 @@
 <h1 align="center">Hello 👋, I'm Parvendran Vasu</h1>
 <h3 align="center">A Beginner frontend developer & Game Developer</h3>
-<center><img allign="left" alt="gif" width="400" src="https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif"></center>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parven05&label=Profile%20views&color=0e75b6&style=flat" alt="parven05" /> </p>
 
