@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Used to make games for fun, now learning graphics programming with DirectX. Exploring shaders, rendering pipelines, and engine optimization. Always tinkering with whatever looks cool and teaches me something new.</p>
+<p align="left">Tinkering with DirectX, shaders, and engine internals for fun.</p>
 
 ###
 
