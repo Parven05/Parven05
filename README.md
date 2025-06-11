@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Tinkering with DirectX, shaders, and engine internals for fun.</p>
+<p align="left">Tinkering with DirectX, shaders, and engine stuffs for fun.</p>
 
 ###
 
