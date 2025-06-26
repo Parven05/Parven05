@@ -2,8 +2,6 @@
 
 ###
 
-<p align="left">Tinkering with DirectX, shaders, and engine stuffs for fun.</p>
-
 ###
 
 <div align="left">
