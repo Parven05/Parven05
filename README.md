@@ -2,7 +2,9 @@
 
 ###
 
-<p align="left">I build in C/C++, learning Vulkan to understand GPUs better, with help from math and physics.</p>
+<p align="left">🛠️ Building custom game engines and graphics tools in C/C++<br>
+🎮 Learning Vulkan to go deep into graphics programming<br>
+📐 Math and physics guide my simulations and logic systems</p>
 
 ###
 
@@ -20,8 +22,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/nixos/5277C3" height="40" alt="nixos logo"  />
-  <img width="120" src="https://github.com/user-attachments/assets/30ab0c0c-e4bd-4e80-ae46-159168faf2fb" />
-
+  <img width="120" src="https://github.com/user-attachments/assets/2e340586-8c91-434d-a2ae-529c40c0663f" />
 </div>
 
 ###
