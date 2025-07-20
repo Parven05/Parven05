@@ -20,7 +20,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/nixos/5277C3" height="40" alt="nixos logo"  />
-  <img width="12" src="https://github.com/user-attachments/assets/e691ce69-bec3-41e0-aec4-35c0cec9dffa" />
+  <img width="2442" height="806" alt="vulkan" src="https://github.com/user-attachments/assets/ff2b44c5-db8e-4590-ada8-28237a578843" />
 </div>
 
 ###
