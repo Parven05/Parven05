@@ -2,9 +2,7 @@
 
 ###
 
-<p align="left">🛠️ Building custom game engines and graphics tools in C/C++<br>
-🎮 Learning Vulkan to go deep into graphics programming<br>
-📐 Math and physics guide my simulations and logic systems</p>
+<p align="left">🛠️ I build custom game engines and graphics tools in C/C++, learning Vulkan and enjoying physics along the way.</p>
 
 ###
 
